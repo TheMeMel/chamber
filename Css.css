@@ -1,0 +1,11 @@
+
+body{font-family: 'Pacifico', cursive;background-color: #88c9aa;padding:0;margin:0;color:rgb(0, 0, 0);}
+body .page{margin:20px 80px;}
+/* Barre de navigation*/
+nav{display:flex;flex-wrap:wrap;justify-content: space-between;position:sticky;top:0;background-color: #0a0a0a;padding: 25px 100px;}
+nav .onglets{display: flex;flex-wrap: wrap;margin-top: 5px;}
+nav .onglets a{margin-right: 20px;}
+/*cursor: pointer;*/
+nav .button a{padding: 13px 20px;color:rgb(0, 0, 0);border:none;background-color: red;font-size: 15px;outline:none;text-decoration-line: none;}
+nav .button .login{background-color: inherit;margin-right: 10px;color:#8f8f8f;}
+#naim{color: #fff;}

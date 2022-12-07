@@ -1,0 +1,11 @@
+/* Created by TopStyle Trial - www.topstyle4.com */
+body{
+background-color: #ffdab9;	
+}
+.tab td,th{
+background-color: white;
+padding: 3px;
+}
+.tab{
+	border-collapse: collapse;
+}
